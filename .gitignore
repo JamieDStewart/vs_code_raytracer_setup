@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+# Folders and binary file extensions to keep out of version control
+**/build/
+.vscode/ipch/
