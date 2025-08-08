@@ -21,7 +21,9 @@ After installing the MSVC compiler you may need to close and re-open VS Code so 
 
 ## Why Live Preview
 
-Well this ray tracer will produce a PPM image when run, and having to make use of a separate application to view the content of that image is a bit cumbersome in my opinion. Which is why I wrote a small javascript routine to load the PPM image into a HTML5 canvas element. The [index.htlm](/viewer/index.html) page can be viewed with **"Show Preview"** button at the top of the screen to show the output.ppm file as shown in the following screenshot.
+Well this ray tracer will produce a PPM image when run, and having to make use of a separate application to view the content of that image is a bit cumbersome in my opinion. Which is why I wrote a small javascript routine to load the PPM image into a HTML5 canvas element. 
+
+The [index.html](/viewer/index.html) page can be viewed with **"Show Preview"** button at the top of the screen to show the output.ppm file as shown in the following screenshot.
 
 ![Using Live Preview](images/using_live_preview.png, Using Live Preview to view the output PPM file)
 
