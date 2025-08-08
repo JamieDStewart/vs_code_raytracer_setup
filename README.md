@@ -1,3 +1,5 @@
+![GitHub Build Action](https://github.com/JamieDStewart/vs_code_raytracer_setup/actions/workflows/cmake-multi-platform.yml/badge.svg)
+
 # VS Code Ray Tracer
 
 This repository is the initial set up for getting started in writing a ray traer using VS Code as a development environment with C++ as the programming language.
